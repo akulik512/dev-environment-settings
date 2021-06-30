@@ -1,0 +1,8 @@
+[core]
+	autocrlf = input
+[alias]
+	a = add
+	st = status
+	b = branch
+	alias = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
+	c = commit -S
