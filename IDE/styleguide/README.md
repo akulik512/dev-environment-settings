@@ -1,0 +1,1 @@
+I'm using the `google-java-format` plugin by default.
