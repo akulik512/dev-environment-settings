@@ -4,5 +4,6 @@
 	a = add
 	st = status
 	b = branch
+	c = commit -S -m
+	unstage = reset HEAD --
 	alias = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
-	c = commit -S
