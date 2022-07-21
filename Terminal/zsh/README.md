@@ -1,3 +1,0 @@
-- Theme - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- Plugins 
-  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh) 
